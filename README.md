@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Computer Science undergraduate (2027) with hands-on experience in Java, Python, React, Flask, Machine Learning,<br>and AI applications. Developed full-stack and AI-driven projects including chatbots, anomaly detection systems, and<br>image classification models. Strong understanding of DSA, DBMS, OOP, and System Design. Seeking Software<br>Engineering Internship opportunities to contribute to scalable software solutions
 
 
